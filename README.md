@@ -18,7 +18,9 @@
 
 <a href="https://github.com/shadowfury0/qt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&theme=radical" />
-</a>    
+</a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shadowfury0)](https://git.io/streak-stats)
 
 
 <!---
