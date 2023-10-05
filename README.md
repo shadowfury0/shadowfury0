@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowfury0)](https://git.io/streak-stats)
+![ShadowFury GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&theme=transparent)
 
 
 <!---
