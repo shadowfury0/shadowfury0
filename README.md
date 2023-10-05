@@ -5,13 +5,8 @@
 - 📫 How to reach me ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfury0&layout=compact&hide=html,javascript,c)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadowfury0)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfury&layout=compact)
-
-<!--[![wakatime](https://wakatime.com/badge/user/7e7c9b8c-f1a2-45d5-a175-922086f27157.svg)](https://wakatime.com/@7e7c9b8c-f1a2-45d5-a175-922086f27157)-->
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@shadowfury)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 shadowfury0/shadowfury0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
