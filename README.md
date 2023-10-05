@@ -14,12 +14,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/shadowfury0/stl_implement.git">
+<a href="https://github.com/shadowfury0/stl_implement">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/shadowfury0/qt.git">
+<a href="https://github.com/shadowfury0/qt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
