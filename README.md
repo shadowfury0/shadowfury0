@@ -13,12 +13,11 @@
 </a>
 
 <a href="https://github.com/shadowfury0/stl_implement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=stl_implement&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&theme=highcontrast" />
 </a>
 
-
 <a href="https://github.com/shadowfury0/qt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=qt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&theme=radical" />
 </a>    
 
 
