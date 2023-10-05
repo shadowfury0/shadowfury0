@@ -5,8 +5,6 @@
 - 📫 How to reach me ...
 
 
-![ShadowFury GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowfury0&show_icons=true&theme=transparent)
-
 <a href="https://github.com/shadowfury0/shadowfury0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowfury0&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -15,12 +13,12 @@
 </a>
 
 <a href="https://github.com/shadowfury0/stl_implement">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=stl_implement&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/shadowfury0/qt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=qt&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 
