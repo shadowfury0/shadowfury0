@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=stl_implement&theme=radical"/>
 </a>
 
-<a href="https://github.com/shadowfury0/qt">
+<a href="https://github.com/shadowfury0/qd_language">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadowfury0&repo=qt&theme=radical" />
 </a>
 
